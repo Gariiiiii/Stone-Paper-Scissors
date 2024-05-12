@@ -22,5 +22,5 @@ This is a simple Stone Paper Scissors game built using HTML, CSS, and JavaScript
 - CSS
 - JavaScript
 
-- ## Preview
-- https://gariiiiii.github.io/Stone-Paper-Scissors/
+## Preview
+https://gariiiiii.github.io/Stone-Paper-Scissors/
